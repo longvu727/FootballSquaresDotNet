@@ -1,0 +1,6 @@
+.*
+!/.gitignore
+FootballSquareGameServicesDotNet/*
+FootballSquarePages/*
+FootballSquaresLibs/*
+./Microservices/*
